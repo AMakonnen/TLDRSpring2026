@@ -1,7 +1,7 @@
 ---
-title: Group1Background
+title: Group8Background
 layout: about
-permalink: /Group1Background.html
+permalink: /Group8Background.html
 credits: true
 ---
 **Title of Background**
