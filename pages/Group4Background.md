@@ -1,11 +1,18 @@
 ---
-title: Group4Background
+title: U.S. Book Bans 1900-1930
 layout: about
-permalink: /Group4Background.html
-credits: true
+permalink: /1900-1930.html
+credits: false
 ---
-**Title of Background**
+## U.S. Book Bans 1900-1930 ##
 
+<sup> Thilak, David, Jenny, Michelle </sup>
+
+During the early 1900s, the U.S. was in the Progressive Era, when people believed that society could be improved through moral uplift. Many reform groups pushed to protect children and women from what they considered “ immoral” contents. Libraries and schools became tools for shaping “good citizens.” Another important historical factor was the wave of immigrants from Southern and Eastern Europe, along with rapid urbanization. These social changes caused many Americans to fear that foreign ideas and cultures would threaten traditional American values. Consequently, books dealing with sexuality, crime, radical politics, and social criticism were often labeled dangerous and subject to restriction or removal in schools and public institutions. 
+
+At the same time, the New England Watch and Ward Society, which was founded by wealthy Bostonian families, petitioned to ban works they deemed controversial. This pushback influenced the Boston Public Library to lock the most controversial books. However, these bannings were often counterproductive as some authors, including Upton Sinclair, would intentionally get their books banned for publicity.
+
+Some examples of books which were banned include Ernest Hemingway’s _The Sun Also Rises_, which was banned in Boston in 1930 for its use of profanity and sexual content, going against Progressive values of the time in shaping moral citizens. John Steinbeck’s _The Grapes of Wrath_ was banned in 1939 for portraying the inhumane working conditions of Californian migrants. Steinbeck’s work was labeled as “libel and lie” by the Kern County board, where the book was set. A school district in New Hampshire prohibited Lewis Carroll’s children's book _Alice in Wonderland_ due to its references to masturbation, sexual fantasies, and negative portrayals of teachers and religion, a nod to the period’s emphasis on moral works. 
 
 
 {% include feature/image.html objectid="coll061" width="75" %}
