@@ -1,10 +1,10 @@
 ---
-title: International Book Bans
+title: International Book Bans Before 2000
 layout: about
-permalink: /international.html
+permalink: /international_pre2000.html
 credits: false
 ---
-## International Book Bans ##
+## International Book Bans Before 2000 ##
 
 <sup> Alexander, Hannah, Leeza, Ryan </sup>
 
