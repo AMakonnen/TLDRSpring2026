@@ -1,7 +1,7 @@
 ---
 title: What is a Book Ban?
 layout: about
-permalink: /what.html
+permalink: /intro.html
 credits: false
 ---
 ## What is a Book Ban? ##
