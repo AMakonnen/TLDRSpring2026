@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: 01group1
+featured-image: https://www.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/f8/a1/f8a10d40-596f-4ad1-8db5-fa6edf834e55/idealbookshelfcp524-wgbhamericanexperience-bannedbooks-2000web.jpg__2000x1161_q85_crop_subsampling-2_upscale.jpg
 featured-image-alt-text: # add alt text if using url for featured-image (objectid will be automatic from metadata)
 # optional: add extra padding above collection title for a larger image feature. 
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
